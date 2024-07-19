@@ -1,5 +1,5 @@
 {
-  "name": "project-05-word-counter",
+  "name": "@aliyapervez/word-counter",
   "version": "1.0.0",
   "description": "This is a CLI based word counter",
   "main": "index.js",
